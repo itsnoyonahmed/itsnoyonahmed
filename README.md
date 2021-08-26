@@ -4,7 +4,7 @@
 
 Hello there, my name is Noyon. I am a front-end web designer. I am learning to work in this sector last two years. So, I have now good knowledge of web designing. I am also doing a little bit of graphic designing. I am a self-learner. I acquiring knowledge of web designing by myself. My goal is to become a good web designer. And my work is to make good websites for you. so that you can be benefited
 
-Skills: HTML / CSS / JS
+Skills:  HTML / CSS / JS
 
 - 🔭 I’m currently working on Three-Dots 
 - 🌱 I’m currently learning Javascript 
@@ -15,10 +15,10 @@ Skills: HTML / CSS / JS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahamed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ahamed.noyon.75)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ahamed.noyon.75/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ahamed_noyon_75)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/ahamednoyon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://codernoyon.blogspot.com)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahamed)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahamednoyon)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahamed&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahamednoyon&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/ahamed)  
+![GitHub metrics](https://metrics.lecoq.io/ahamednoyon) 
 
-![Profile views](https://gpvc.arturio.dev/ahamed)  
+![Profile views](https://gpvc.arturio.dev/ahamednoyon)  
