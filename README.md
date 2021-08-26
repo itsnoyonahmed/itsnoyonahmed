@@ -23,7 +23,7 @@ Skills:
 
 ![GitHub metrics](https://metrics.lecoq.io/ahamednoyon) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahamednoyon)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahamednoyon&show_icons=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahamednoyon&layout=compact)[(https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahamednoyon&show_icons=true)  ]
 
 
  
