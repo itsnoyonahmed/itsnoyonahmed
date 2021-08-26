@@ -1,4 +1,4 @@
-![Front-end Web Designer](https://pbs.twimg.com/profile_banners/1341950620157112320/1627068091/600x200)
+![Front-end Web Designer](https://pbs.twimg.com/profile_banners/1341950620157112320/1627068091/1500x500)
 ### Hi, I am  Ahamed Noyon 👋
 <p>
  Front-end Web Designer
