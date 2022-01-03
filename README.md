@@ -1,13 +1,13 @@
 <img src='https://scontent.fdac134-1.fna.fbcdn.net/v/t39.30808-6/s960x960/170099032_969764523810716_1735681163067243319_n.png?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeH24Sek4Sk-w-_HuhU6g5DR4o0ZfZqRer7ijRl9mpF6vvuZeYWd_3zWSDV7A7-DS16GgpTX1nNt_IaTbYSoaaP8&_nc_ohc=fQRKoIo2FdsAX-atv3k&_nc_ht=scontent.fdac134-1.fna&oh=00_AT-NYW3A8JsfSjFm3XgIohpkLFPXGzi2a0JRYaGXdU9o2A&oe=61D72C64'>
 
 
-# Hi, I am  Ahamed Noyon 👋
+# Hi, I am  Ahmen Noyon 👋
 
 #### Front-end Web Developer
 
 ![Profile views](https://gpvc.arturio.dev/itsnoyonahmed) 
 
-Hello there, My name is Md Noyon Rahman. I am a front-end web designer. I am learning to work in this sector last two years. So, I have now good knowledge of web designing. I am also doing a little bit of graphic designing. I am a self-learner. I acquiring knowledge of web designing by myself. My goal is to become a good web designer. And my work is to make good websites for you. so that you can be benefited
+Hello there, My name is Ahmed. I am a front-end web designer. I am learning to work in this sector last two years. So, I have now good knowledge of web designing. I am also doing a little bit of graphic designing. I am a self-learner. I acquiring knowledge of web designing by myself. My goal is to become a good web designer. And my work is to make good websites for you. so that you can be benefited
 
 Skills: 
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></p>
